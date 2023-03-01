@@ -5,7 +5,8 @@ $page = '';
 if (isset($_GET['page'])) {
   $page = $_GET['page'];
 }
-
+var_dump($page);
+die;
 switch ($page) {
   case 'home':
     include 'view/home.php';

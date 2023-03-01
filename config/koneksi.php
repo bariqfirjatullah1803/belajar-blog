@@ -1,8 +1,8 @@
 <?php
 
 $servername = 'localhost';
-$username = 'root';
-$password = '';
+$username = 'bariq';
+$password = 'aku089619';
 $dbname = 'blog';
 
 // Membuat Koneksi
